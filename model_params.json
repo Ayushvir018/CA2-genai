@@ -1,0 +1,1 @@
+{"model_type": "RandomForestRegressor", "n_estimators": 100, "random_state": 42, "features": ["Hour", "Temperature(\u00b0C)", "Humidity(%)", "Wind speed (m/s)", "Visibility (10m)", "Dew point temperature(\u00b0C)", "Solar Radiation (MJ/m2)", "Rainfall(mm)", "Snowfall (cm)", "Seasons", "Holiday", "Functioning Day", "Month", "DayOfWeek"], "target": "Rented Bike Count"}
