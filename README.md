@@ -12,15 +12,18 @@ A Machine Learning API that predicts hourly bike rental demand using the **Seoul
 ---
 
 ## 📁 Project Structure
+
+```
 bike-demand-api/
-├── main.py # FastAPI application
-├── model.joblib # Trained ML model
-├── model_params.json # Model parameters
-├── requirements.txt # Python dependencies
-├── Dockerfile # Docker configuration
+├── main.py
+├── model.joblib
+├── model_params.json
+├── requirements.txt
+├── Dockerfile
 └── .github/
-└── workflows/
-└── ci.yml # GitHub Actions CI pipeline
+    └── workflows/
+        └── ci.yml
+```
 ---
 
 ## 📊 Dataset
