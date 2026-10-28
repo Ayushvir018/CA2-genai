@@ -121,5 +121,6 @@ uvicorn main:app --host 0.0.0.0 --port 7000
 
 ## 👤 Author
 
-**Your Name**  
+Ayush Gupta
+2400290120078
 Course: MLOps / CA2 Assignment
